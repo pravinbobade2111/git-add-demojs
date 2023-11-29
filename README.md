@@ -1,1 +1,1 @@
-# git-add-demojs
+print("i love git");
